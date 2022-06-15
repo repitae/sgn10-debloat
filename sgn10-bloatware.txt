@@ -1,0 +1,180 @@
+# pm list packages
+# pm list packages -s
+# pm list packages -d
+# pm list packages -u
+# pm list packages | grep 'samsung'
+# pm disable-user --user 0
+# pm uninstall -k --user 0
+
+#Android Bloatware on Samsung
+com.android.bips // Default Printing Service
+com.android.bookmarkprovider // Bookmark Provider
+com.android.browser // Web Browser
+com.android.calendar // Calendar app
+com.android.cellbroadcastreceiver // Cell broadcasting
+com.android.cellbroadcastreceiver.overlay.common
+com.android.chrome // Chrome Browser
+com.android.deskclock // Stock Clock app
+com.android.dreams.basic // Screensaver app
+com.android.dreams.phototable // Screensaver app
+com.android.egg // Android Easter Egg
+com.android.emergency // SOS Calling
+com.android.hotwordenrollment.okgoogle // OK Google
+com.android.mms // MMS app
+com.android.mms.service // MMS
+com.android.providers.partnerbookmarks // Bookmarks Provider
+com.android.statementservice // Checks APK files
+com.android.stk // SIM Tool-kit
+com.android.vpndialogs // VPN Dialog
+com.android.wallpaper.livepicker // Live wallpaper
+com.android.wallpaperbackup // Wallpaper backup feature
+com.android.wallpapercropper // Wallpaper cropping feature
+com.sec.android.app.chromecustomizations
+
+#Google Bloatware on Samsung
+com.google.android.apps.docs // Google Docs
+com.google.android.apps.maps // Google Maps
+com.google.android.apps.photos // Google Photos
+com.google.android.apps.tachyon // Google Duo
+com.google.android.apps.wellbeing // Digital Wellbeing
+com.google.android.feedback // Feedback app
+com.google.android.gm // Gmail
+com.google.android.googlequicksearchbox // Google Quick Search
+com.google.android.inputmethod.latin // Gboard
+com.google.android.marvin.talkback // Talkback feature
+com.google.android.printservice.recommendation // Mobile Printing
+com.google.android.syncadapters.calendar // Calendar Sync
+com.google.android.tts // Text-to-speech
+com.google.android.videos // Google Play Movies & TV
+com.google.android.youtube // Youtube
+com.google.ar.lens // AR Lens
+
+#General Bloatware on Samsung
+com.mobeam.barcodeService // Barcode scanner
+com.samsung.android.app.aodservice // Always on Display
+com.samsung.android.app.dressroom // Samsung Wallpapers
+com.samsung.android.app.social // Whats New
+com.samsung.android.app.watchmanagerstub // Galaxy Watch
+com.samsung.android.ardrawing // AR Doodle
+com.samsung.android.beaconmanager // User tracking app (sensitive)
+com.samsung.android.da.daagent // Dual Messenger
+com.samsung.android.drivelink.stub // Samsung Car Mode
+com.samsung.android.email.provider // Samsung Email
+com.samsung.android.mateagent // Galaxy Friends
+com.samsung.android.messaging // Message app
+com.samsung.android.net.wifi.wifiguider // WiFi Tips
+com.samsung.android.oneconnect // Smart Things
+com.samsung.android.scloud // Samsung Cloud
+com.samsung.android.sdk.handwriting // Galaxy Note series bloat
+com.samsung.android.sdk.professionalaudio.utility.jammonitor
+com.samsung.android.service.aircommand // Air command (Note series bloat)
+com.samsung.android.service.livedrawing // Live Message (Note series bloat)
+com.samsung.android.svoiceime // Samsung Voice Input
+com.samsung.android.universalswitch // Mobile Universal Switch
+com.samsung.android.visioncloudagent //  VisionCloudAgent
+com.samsung.android.voc // Samsung Members
+com.samsung.android.wellbeing // Digital wellbeing
+com.samsung.android.widgetapp.yahooedge.finance // Finance widget
+com.samsung.android.widgetapp.yahooedge.sport // Sports widget
+com.samsung.app.highlightplayer // Samsung Story Video Editor
+com.samsung.ecomm.global // Samsung Shop
+com.samsung.hidden.china // China Hidden Menu (Chinese Spyware)
+com.samsung.safetyinformation // Saftey Information
+com.samsung.SMT // Samsung Speech-to-Text
+com.samsung.storyservice // Samsung StoryService (Tracks device activity)
+com.sec.android.app.dexonpc // Samsung Dex
+com.sec.android.app.popupcalculator // Samsung Calculator
+com.sec.android.app.sbrowser // Samsung Internet
+com.sec.android.app.voicenote // Voice Recorder
+com.sec.android.daemonapp // Samsung Weather
+com.sec.android.easyMover.Agent // Samsung Smart Switch
+com.sec.android.easyonehand // One hand mode
+com.sec.android.splitsound // Samsung Split Sound Service
+com.sec.android.widgetapp.samsungapps // Homescreen widget
+com.wsomacp // Samsung Email
+flipboard.boxer.app // Flipboard app
+
+#Samsung Bixby
+com.samsung.android.app.routines // Bixby Routines
+com.samsung.android.app.spage // Bixby homepage launcher
+com.samsung.android.bixby.agent // Bixby Voice
+com.samsung.android.bixby.agent.dummy // Bixby debug app
+com.samsung.android.bixby.service // Bixby features
+com.samsung.android.bixby.wakeup
+com.samsung.android.bixbyvision.framework // Bixby Vision
+com.samsung.android.visionintelligence // Bixby Vision
+
+#ANT Service
+com.dsi.ant.plugins.antplus
+com.dsi.ant.sample.acquirechannels
+com.dsi.ant.service.socket
+
+#Samsung PayPass
+com.samsung.android.authfw // Samsung Authentication
+com.samsung.android.samsungpass // Samsung Pass
+com.samsung.android.samsungpassautofill // Samsung Auto fill
+com.samsung.android.spay // Samsung Pay (sensitive)
+com.samsung.android.spayfw // Samsung Pay Framework (sensitive)
+
+#Samsung AREmoji
+com.samsung.android.aremoji // AR Emoji
+com.samsung.android.emojiupdater // Emoji updater
+com.sec.android.mimage.avatarstickers // Stickers for AR Emoji app
+
+#Samsung StickerCenter
+com.samsung.android.app.camera.sticker.facear.preload
+com.samsung.android.app.camera.sticker.facearexpression.preload
+com.samsung.android.app.camera.sticker.facearframe.preload
+com.samsung.android.app.camera.sticker.stamp.preload
+com.samsung.android.stickercenter
+com.samsung.android.stickerplugin
+
+#Facebook
+com.facebook.appmanager
+com.facebook.katana
+com.facebook.services
+com.facebook.system
+
+#Samsung Game
+com.samsung.android.game.gamehome
+com.samsung.android.game.gametools
+com.samsung.android.gametuner.thin
+com.samsung.android.game.gos
+com.enhance.gameservice
+
+#Samsung Gear
+com.google.vr.vrcore
+com.samsung.android.app.vrsetupwizardstub
+com.samsung.android.hmt.vrshell
+com.samsung.android.hmt.vrsvc
+
+#Samsung Kids
+com.samsung.android.app.camera.sticker.facearavatar.preload // Camera stickers
+com.samsung.android.kidsinstaller // Kids Installer
+com.sec.android.app.kidshome // Kids launcher
+
+#Samsung Led
+com.samsung.android.app.ledbackcover
+com.sec.android.cover.ledcover
+
+#Edge Display
+com.cnn.mobile.android.phone.edgepanel // Edge panel
+com.samsung.android.app.appsedge // App panel plugin for Edge display
+com.samsung.android.app.sbrowseredge // Edge panel plugin for Samsung Internet
+com.samsung.android.service.peoplestripe // Edge panel plugin for contacts
+
+#Samsung Dex
+com.samsung.desktopsystemui
+com.sec.android.app.desktoplauncher
+com.sec.android.desktopmode.uiservice
+
+#Miscellaneous Samsung Bloatware
+com.android.documentsui
+com.google.android.dialer
+com.greatbigstory.greatbigstory
+com.linkedin.android
+com.microsoft.skydrive
+com.pandora.android
+com.samsung.android.app.contacts
+com.samsung.android.calendar
+com.samsung.android.service.livedrawing
